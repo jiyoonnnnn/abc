@@ -1,7 +1,7 @@
 ```mermaid
 classDiagram 
     direction LR
-   class Person{
+    class Person{
         <<abstract>>
         +name: str
         +phoneNumber: str
